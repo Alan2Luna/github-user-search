@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    margin-bottom: 2rem;
+
+    button {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        cursor: pointer;
+        border: none;
+        background-color: inherit;
+
+        .container-theme-mode {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            color: var(--txt-high-contrast);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+    }
+}

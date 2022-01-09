@@ -1,0 +1,10 @@
+:root {
+    --bg-primary: #f6f8ff;
+    --bg-secundary: #fefefe;
+    --btn-color: #60abff;
+    --txt-high-contrast: #2b3442;
+    --txt-mid-contrast: #4b6a9b;
+    --txt-low-contrast: #a3b7d7;
+    --txt-search: #222731;
+    --txt-search-placeholder: #4b6a9b;
+}
